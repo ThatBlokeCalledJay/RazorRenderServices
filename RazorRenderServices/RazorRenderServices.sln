@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RazorRenderServices", "Razo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RazorRenderServices.RazorLite", "RazorRenderServices.RazorLite\RazorRenderServices.RazorLite.csproj", "{DABE296E-8D08-4DDA-B6DC-D5AB6B64F386}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RazorRenderServices.Tests", "RazorRenderServices.Tests\RazorRenderServices.Tests.csproj", "{A10D23D6-C4D0-4787-AAC9-C8DE630EFA87}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{DABE296E-8D08-4DDA-B6DC-D5AB6B64F386}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DABE296E-8D08-4DDA-B6DC-D5AB6B64F386}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DABE296E-8D08-4DDA-B6DC-D5AB6B64F386}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A10D23D6-C4D0-4787-AAC9-C8DE630EFA87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A10D23D6-C4D0-4787-AAC9-C8DE630EFA87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A10D23D6-C4D0-4787-AAC9-C8DE630EFA87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A10D23D6-C4D0-4787-AAC9-C8DE630EFA87}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
